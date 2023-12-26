@@ -3,9 +3,10 @@ This is a project that we done for our IWT module. This is an Online Book Store 
 
 > **### Credit goes for my team members:**
 
-> _-  @Shenal01
+
+> - @[Shenal01](https://github.com/Shenal01)
 > - @[DilmiSamaranayaka](https://github.com/DilmiSamaranayaka)
-> - @[Tharusha200219](https://github.com/Tharusha200219/Tharusha200219)_
+> - @[Tharusha200219](https://github.com/Tharusha200219/Tharusha200219)
 
 URL FOR FILES:
-[REquest for files here](https://drive.google.com/file/d/1LgrG2s7MBp9esOSnwKTreYwJYQXfZAXb/view?usp=sharing)
+[Request for files here](https://drive.google.com/file/d/1LgrG2s7MBp9esOSnwKTreYwJYQXfZAXb/view?usp=sharing)
